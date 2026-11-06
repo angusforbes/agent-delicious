@@ -1,4 +1,4 @@
-# x-likes — archive, categorize and browse your X/Twitter likes
+# agent-delicious — archive, categorize and browse your likes (X and Reddit so far), like del.icio.us for your agents
 
 One script, no X API key. It drives a real Chromium window with its own persistent profile: you log
 in once, then it scrolls your Likes page and saves the full tweet JSON that X sends to the page
